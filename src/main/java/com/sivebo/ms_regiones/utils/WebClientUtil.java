@@ -1,4 +1,4 @@
-package com.sivebo.ms_comunas.utils;
+package com.sivebo.ms_regiones.utils;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
