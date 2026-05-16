@@ -75,8 +75,5 @@ public class RegionController {
                 } else {
                         return ResponseEntity.status(HttpStatus.NOT_FOUND).body("region no encontrada o no se pudo eliminar");
                 }
-        }
-
-        
-        
+        }        
 }
